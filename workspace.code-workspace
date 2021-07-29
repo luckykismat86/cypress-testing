@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "USAF-html-checkpoint-master",
+		"uri": "vsls:/"
+	}
+],
+  "settings": {
+    "files.hotExit": "off",
+    "vsliveshare.join.reload.workspaceId": "1B1ACD9FF0C860BEBD6218ED1D722425FA3D",
+    "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\lucky\\AppData\\Local\\Temp\\vsliveshare\\tmp-1B1ACD9FF0C860BEBD6218ED1D722425FA3D",
+    "vsliveshare.join.correlationId": "",
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "off",
+    "typescript.tsc.autoDetect": "off",
+    "debug.allowBreakpointsEverywhere": true,
+    "html.autoClosingTags": false
+  }
+}

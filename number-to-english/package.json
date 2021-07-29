@@ -1,0 +1,16 @@
+{
+  "name": "number-to-english",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "Node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "jshint": "^2.13.0"
+  }
+}
